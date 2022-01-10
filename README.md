@@ -73,6 +73,3 @@
 </div>
 
 
-<br/>
-
-<img src="https://github.com/im-parsa/im-parsa/raw/main/footer.svg" alt="Footer image">
