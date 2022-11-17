@@ -7,7 +7,7 @@
 <br>
 
 <h3 align="center">
-   My name is Ashkan, but I gave my nickname "DR_Nitrogen"
+   My name is Ashkan,I want tell that i working in cool ideas :)
 </h3>
 
 <p align="center">
