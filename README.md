@@ -1,7 +1,7 @@
-<img src="https://ashkan-sharafie.ir/image/DR_Nitrogen.jpg" alt="Header Image">
+<img src="./Me.png" alt="Header Image">
 
 <div align="center">
-    <h4 align="center"><samp> Fullstack Web Developer - App & Bot Developer - Graphic Designer </samp></h4>
+    <h4 align="center"><samp> Front-End Developer - App & Bot Developer - Graphic Designer </samp></h4>
 </div>
 
 <br>
@@ -19,7 +19,7 @@
     <a href="mailto:DR.Nitrogen7@gmail.com"><img src="https://img.shields.io/badge/Gmail-20202a?style=for-the-badge&logo=gmail&logoColor=4f40f8" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
-<br><br>
+<br/>
 
 <h1 align="center">
     Programming Language
@@ -33,8 +33,25 @@
     
 </div>
 
-<br><br>
+<br/>
 
+<h1 align="center">
+    Tool And Technology
+</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="React.js"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/React_Router-323540?style=for-the-badge&logo=react-router&logoColor=5294E2" alt="React Router" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-323540?style=for-the-badge&logo=html5&logoColor=5294E2" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS3-323540?style=for-the-badge&logo=css3&logoColor=5294E2" alt="CSS3" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Redis-323540.svg?style=for-the-badge&logo=redis&logoColor=5294E2" alt="Redis" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Heroku-323540?style=for-the-badge&logo=heroku&logoColor=5294E2" alt="Heroku" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Webstorm-323540.svg?&style=for-the-badge&logo=webstorm&logoColor=5294E2" alt="Webstorm" style="border-radius:15px"/>
+</div>
+
+<br/>
 
 <h1 align="center">
     Operating System
@@ -71,5 +88,3 @@
 <div align="center"> 
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DR-Nitrogen7&custom_title=DR-Nitrogen7%27s%20Contribution%20Graph&bg_color=20202a&color=4f40f8&line=FFFFFF&point=4f40f8&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
 </div>
-
-
