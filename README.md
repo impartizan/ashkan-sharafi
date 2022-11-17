@@ -69,22 +69,22 @@
 </h1>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-Nitrogen7&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=20202a&title_color=4f40f8&icon_color=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSharafi&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=20202a&title_color=4f40f8&icon_color=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
 </div>
 <br/>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DR-Nitrogen7&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=20202a&title_color=4f40f8&icon_color=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanSharafi&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=20202a&title_color=4f40f8&icon_color=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
 </div>
 
 <br/>
 
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DR-Nitrogen7&theme=gruvbox_duo&background=20202a&hide_border=true&ring=4f40f8&currStreakLabel=4f40f8&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanSharafi&theme=gruvbox_duo&background=20202a&hide_border=true&ring=4f40f8&currStreakLabel=4f40f8&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
 </div>
 
 <br/>
 
 <div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DR-Nitrogen7&custom_title=DR-Nitrogen7%27s%20Contribution%20Graph&bg_color=20202a&color=4f40f8&line=FFFFFF&point=4f40f8&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AshkanSharafi&custom_title=DR-Nitrogen7%27s%20Contribution%20Graph&bg_color=20202a&color=4f40f8&line=FFFFFF&point=4f40f8&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
 </div>
