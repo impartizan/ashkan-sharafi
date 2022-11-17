@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/React_Router-323540?style=for-the-badge&logo=react-router&logoColor=5294E2" alt="React Router" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-323540?style=for-the-badge&logo=html5&logoColor=5294E2" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS3-323540?style=for-the-badge&logo=css3&logoColor=5294E2" alt="CSS3" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
+    <br/>
     <img src="https://img.shields.io/badge/Redis-323540.svg?style=for-the-badge&logo=redis&logoColor=5294E2" alt="Redis" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Heroku-323540?style=for-the-badge&logo=heroku&logoColor=5294E2" alt="Heroku" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
