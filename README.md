@@ -69,12 +69,12 @@
 </h1>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanSharafi&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=20202a&title_color=4f40f8&icon_color=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan-sharafi&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=20202a&title_color=4f40f8&icon_color=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
 </div>
 <br/>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanSharafi&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=20202a&title_color=4f40f8&icon_color=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashkan-sharafi&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=20202a&title_color=4f40f8&icon_color=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
 </div>
 
 <br/>
