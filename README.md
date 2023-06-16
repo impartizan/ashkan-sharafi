@@ -80,11 +80,11 @@
 <br/>
 
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanSharafi&theme=gruvbox_duo&background=20202a&hide_border=true&ring=4f40f8&currStreakLabel=4f40f8&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashkan-sharafi&theme=gruvbox_duo&background=20202a&hide_border=true&ring=4f40f8&currStreakLabel=4f40f8&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=4f40f8&text_color=ffffff&count_private=true"  alt=""/>
 </div>
 
 <br/>
 
 <div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AshkanSharafi&custom_title=DR-Nitrogen7%27s%20Contribution%20Graph&bg_color=20202a&color=4f40f8&line=FFFFFF&point=4f40f8&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ashkan-sharafi&custom_title=DR-Nitrogen7%27s%20Contribution%20Graph&bg_color=20202a&color=4f40f8&line=FFFFFF&point=4f40f8&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
 </div>
