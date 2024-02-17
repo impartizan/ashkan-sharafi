@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href=""><img src="https://img.shields.io/badge/Discord-20202a?style=for-the-badge&logo=discord&logoColor=4f40f8" style="border-radius:15px" alt="Discord"></a>
-    <a href="mailto:DR.Nitrogen7@gmail.com"><img src="https://img.shields.io/badge/Gmail-20202a?style=for-the-badge&logo=gmail&logoColor=4f40f8" alt="Gmail" style="border-radius:15px"></a>
+    <a href="mailto:sharafie.ashkan@gmail.com"><img src="https://img.shields.io/badge/Gmail-20202a?style=for-the-badge&logo=gmail&logoColor=4f40f8" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
 <br/>
