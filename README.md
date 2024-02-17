@@ -1,4 +1,4 @@
-<img src="./Me.png" alt="Header Image">
+<img src="./Me.jpg" alt="Header Image">
 
 <div align="center">
     <h4 align="center"><samp> Front-End Developer - App & Bot Developer - Graphic Designer </samp></h4>
